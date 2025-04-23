@@ -1,0 +1,22 @@
+feature,importance
+price_per_accommodate,0.35586092
+bathrooms_numeric,0.28987765
+accommodates,0.28566363
+price_per_bed,0.0371535
+beds,0.011397534
+maximum_nights_avg_ntm,0.0043640956
+bedrooms,0.004348522
+minimum_nights_avg_ntm,0.002077844
+"location_name_Fletcher, North Carolina, United States",0.0020336697
+room_type_Entire home/apt,0.0013748744
+room_type_Shared room,0.0010172165
+"location_name_North Asheville, North Carolina, United States",0.00087056594
+availability_365,0.00083247834
+"location_name_West Asheville, North Carolina, United States",0.0007524728
+room_type_Hotel room,0.0005527733
+"location_name_East Asheville, North Carolina, United States",0.0005045248
+"location_name_Candler, North Carolina, United States",0.00048662352
+"location_name_Asheville, North Carolina, United States",0.00033869973
+"location_name_Asheville Biltmore, North Carolina, United States",0.00024850873
+"location_name_Arden, North Carolina, United States",0.00023060634
+room_type_Private room,1.31995e-05
