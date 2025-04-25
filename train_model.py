@@ -34,7 +34,7 @@ if "segmented_amenities" in df.columns:
 feature_columns = [
     "accommodates", "beds", "bedrooms", "bathrooms_numeric",
     "availability_365", "minimum_nights_avg_ntm", "maximum_nights_avg_ntm",
-    "price_per_accommodate", "price_per_bed"
+    #"price_per_accommodate", "price_per_bed"
 ] + [col for col in df.columns if col.startswith("room_type_") or col.startswith("location_name_") or col.startswith("segmented_amenities_")]
 
 # ❌ Eksik verileri çıkar

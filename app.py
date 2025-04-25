@@ -8,7 +8,7 @@ from Fiyat_Tahmini import fiyattahmini
 st.set_page_config(page_title="Airbnb Dashboard", layout="wide")
 
 
-st.sidebar.title("📊 Airbnb Dash")
+st.sidebar.title("📊 Airbnb Dashboard")
 page = st.sidebar.radio("Menü", [
     "Veri Analizi",
     "Veri Insights",
