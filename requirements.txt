@@ -1,10 +1,10 @@
-streamlit
 pandas
 numpy
+xgboost
+scikit-learn
+joblib
+streamlit
 matplotlib
 seaborn
 plotly
-xgboost
-joblib
 openpyxl
-
