@@ -47,8 +47,8 @@ def fiyattahmini():
     ])
 
     # Özellik mühendisliği
-    price_per_accommodate = 100  # Tahmin yapıldığı için bilinmiyor
-    price_per_bed = 100  # Aynı şekilde bilinmiyor
+    price_per_accommodate = 85  # Tahmin yapıldığı için bilinmiyor
+    price_per_bed = 90  # Aynı şekilde bilinmiyor
 
     # Özellik sözlüğü oluştur
     input_data = {
