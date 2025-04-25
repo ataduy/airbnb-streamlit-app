@@ -9,8 +9,8 @@ import joblib
 import os
 
 # 📁 CSV dosyasını oku
-file_path = "/Users/atakandogulu/Desktop/airbnb_streamlit_app/data/airbnb_temizlenmis.csv"
-#file_path = "data/airbnb_temizlenmis.csv"
+#file_path = "/Users/atakandogulu/Desktop/airbnb_streamlit_app/data/airbnb_temizlenmis.csv"
+file_path = "data/airbnb_temizlenmis.csv"
 df = pd.read_csv(file_path)
 
 # 🎯 Hedef değişken
